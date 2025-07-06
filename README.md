@@ -1,5 +1,7 @@
 # Projeto Mercedes
 
+### Testado com python 3.12.8
+
 ## Uso: 
 `python3 conversor.py -i arquivo1.pdf arquivo2.pdf [...] -o prefixo_saída`
 
